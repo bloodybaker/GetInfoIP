@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Alinka.iml" filepath="$PROJECT_DIR$/Alinka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetInfoIP.iml" filepath="$PROJECT_DIR$/GetInfoIP.iml" />
     </modules>
   </component>
 </project>

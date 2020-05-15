@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Alinka" />
+        <module name="GetInfoIP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Alinka" target="1.5" />
+      <module name="GetInfoIP" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
